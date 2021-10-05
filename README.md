@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diinhoalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="diinhoalmeida" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, TypeScript**
+- 🌱 I’m currently learning **Next JS, TypeScript**
 
 - ⚡ Fun fact **I love movies, and I know most of the lines of Shrek characters**
 
