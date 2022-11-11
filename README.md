@@ -1,18 +1,63 @@
-<h1 align="center">Hi 👋, I'm Edilson Almeida</h1>
-<h3 align="center">A Full-Stack developer from BRAZIL</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diinhoalmeida&label=Profile%20views&color=0e75b6&style=flat" alt="diinhoalmeida" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Edilson+Almeida;I'm+27+years+old;I+from+Brazil,+BA;I+work+with+web+mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🌱 I'm professionalizing in **Front-End**
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diinhoalmeida&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diinhoalmeida&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
+</div>
 
-- ⚡ Fun fact **I love movies, and I know most of the lines of Shrek characters**
+![Contribution](https://activity-graph.herokuapp.com/graph?username=diinhoalmeida&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/edilson-almeida-2684a620a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edilson-almeida-2684a620a/" height="30" width="40" /></a>
-</p>
+  
+<section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Technologies: ⬇️
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diinhoalmeida&show_icons=true&locale=en" alt="diinhoalmeida" /></p>
+<div>
+<h3>Back-end:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+  </div>
+  <div>
+  <h3>Front-end:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwind logo"  />
+  </div>
+  <div>
+  <h3>Others:</h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" height="40" width="52" alt="eslint logo />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
+  </div>
+</section>
+
+#
+
+<div align="center">
+<h3>Contact-me:</h3>
+<a href="edifilho1409@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7F3ACE?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/edilson-almeida-2684a620a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7F3ACE?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://wa.link/dzchne" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-7F3ACE?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+</div>
+
+#
+
+<div align="center">
+  <h3>Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{diinhoalmeida}/count.svg" /></p> 
+</div>
+
+ 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
