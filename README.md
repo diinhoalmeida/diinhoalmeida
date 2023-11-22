@@ -6,9 +6,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diinhoalmeida&show_icons=true&count_private=true&hide_border=true&title_color=7F3ACE&icon_color=7F3ACE&text_color=ffff&bg_color=0d1117" alt="Eric Felipe github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diinhoalmeida&layout=compact&hide_border=true&title_color=7F3ACE&text_color=ffff&bg_color=0d1117" />
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=diinhoalmeida&color=7F3ACE&line=ffff&point=7F3ACE&title_color=7F3ACE&area_color=7F3ACE&hide_border=true&area=true&bg_color=0d1117)
-
   
 <section>
 
@@ -22,6 +19,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+    <img src="https://avatars.githubusercontent.com/u/17219288?s=48&v=4" height="40" width="52" alt="prisma orm logo"  />
   </div>
   <div>
   <h3>Front-end:</h3>
@@ -31,6 +29,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwind logo"  />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+    <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" height="40" width="52" alt="react testyng library logo"  />
+    <img src="https://avatars.githubusercontent.com/u/54212428?s=48&v=4" height="40" width="52" alt="chakra ui logo"  />
   </div>
   <div>
   <h3>Others:</h3>
@@ -39,6 +40,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"/>
   </div>
 </section>
 
